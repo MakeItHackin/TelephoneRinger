@@ -3,6 +3,8 @@
 This is a work in progress.... updates and more links to come!
 If you have any suggestions, plase let me know by opening an Issue
   
+Not all phone use the same amount of voltage/current to ring.  Seems like the really old phones may require higher wattage and this board may or may not ring them.  
+  
 BILL OF MATERIALS:
 Adafruit Feather (Tested with RP2040, M0 Express, 32u4 Basic, and ESP8266 HUZZAH)  
 LEDs 5mm - 3  
