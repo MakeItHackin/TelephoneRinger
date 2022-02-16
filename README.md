@@ -2,6 +2,8 @@
 
 This is a work in progress.... updates and more links to come!
 If you have any suggestions, plase let me know by opening an Issue
+
+Project offered under Attribution 4.0 International (CC BY 4.0) License.
   
 Not all phone use the same amount of voltage/current to ring.  Seems like the really old phones may require higher wattage and this board may or may not ring them.  
   
